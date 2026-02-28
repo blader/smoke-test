@@ -1,0 +1,4 @@
+interface:
+  display_name: "Smoke Test"
+  short_description: "Plan and run local plus remote smoke validation"
+  default_prompt: "Use $smoke-test to plan and execute local plus remote smoke testing for my current branch, including uncommitted code."
